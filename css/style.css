@@ -345,7 +345,7 @@ figure figcaption {
 #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
   background: #2c98f0;
-  border: 2px solid #white;
+  border: 2px solid white;
 }
 #colorlib-hero .flexslider .flex-direction-nav {
   display: none;
